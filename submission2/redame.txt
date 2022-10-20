@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 
 
 Public link to the slide:
-
+https://docs.google.com/presentation/d/1cYNgSkMb8r5LnX7mbVFPG0rPaWMKsvI8gJuLWpTDVsw/edit?usp=sharing
 
 Paper title:
 Stacking ensemble model of deep learning for plant disease recognition
